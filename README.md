@@ -14,3 +14,4 @@ On AliExpress you can also buy the PF connector and wire.
 Because the output voltage cannot be reversed it is suitable e.g. as an LED dimmer  
 ![Image](https://github.com/user-attachments/assets/ed3f1727-a2c3-4208-9fcc-59caea6877c4)
 
+A modified design where the motor can be changed direction using a DPDT-switch can be seeb below
