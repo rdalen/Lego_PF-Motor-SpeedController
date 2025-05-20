@@ -1,4 +1,4 @@
-## Lego Power Function (PF) Motor speed controller
+.## Lego Power Function (PF) Motor speed controller
 
 I made my own versions of a speed controller for Lego PF motors after [this](https://www.toypro.com/nl/product/54279/power-controller-voor-lego-power-functions?gad_source=1&gad_campaignid=11441466193&gclid=CjwKCAjwravBBhBjEiwAIr30VCxSRBgGp-f_SLISsrgKkRwWOlxM40EZKS2sQz4RLvHa6dNschsDmRoCfCwQAvD_BwE) product.  
 ![Image](https://github.com/user-attachments/assets/9e3d2e8a-b6cb-4a86-9446-e1507b8d6cdc)
@@ -14,4 +14,4 @@ On AliExpress you can also buy the PF connector and wire.
 Because the output voltage cannot be reversed it is suitable e.g. as an LED dimmer  
 ![Image](https://github.com/user-attachments/assets/ed3f1727-a2c3-4208-9fcc-59caea6877c4)
 
-A modified design where the motor can be changed direction using a DPDT-switch can be seeb below
+Below is a modified design where the motor can be changed direction using a DPDT switch.  
