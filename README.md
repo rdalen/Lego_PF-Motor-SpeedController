@@ -4,6 +4,8 @@ I made my own versions of a speed controller for Lego PF motors after [this](htt
 ![Image](https://github.com/user-attachments/assets/9e3d2e8a-b6cb-4a86-9446-e1507b8d6cdc)
 
 This module contains a HW-70 PWM Motor speed controller  
-![Image](https://github.com/user-attachments/assets/feba4959-cfe3-4f0f-8ae7-ff4f55f1810d)
+![Image](https://github.com/user-attachments/assets/246a8842-75a4-48c1-bdcb-1572a66c688f)
+
+
 
 
