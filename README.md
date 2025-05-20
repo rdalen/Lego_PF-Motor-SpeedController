@@ -6,7 +6,7 @@ I made my own versions of a speed controller for Lego PF motors after [this](htt
 This module contains a commercial HW-70 PWM Motor speed controller  
 ![Image](https://github.com/user-attachments/assets/246a8842-75a4-48c1-bdcb-1572a66c688f)
 
-I bought a couple of these modules on AliExpress and made this encloser for it  
+I bought a couple of these modules on AliExpress (approx. 1€25 each) and made this encloser for it  
 ![Image](https://github.com/user-attachments/assets/31759234-456d-4af7-8029-7ed63e5ab469)
 
 Because the output voltage cannot be reversed it is suitable e.g. as an LED dimmer  
