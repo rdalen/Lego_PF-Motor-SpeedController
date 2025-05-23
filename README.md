@@ -15,3 +15,4 @@ Because the output voltage cannot be reversed it is suitable e.g. as an LED dimm
 ![Image](https://github.com/user-attachments/assets/ed3f1727-a2c3-4208-9fcc-59caea6877c4)
 
 Below is a modified design where the motor can be changed direction using a DPDT switch.  
+![Image](https://github.com/user-attachments/assets/1e96dd7b-d2d6-4f70-9284-a41b421fc728)
