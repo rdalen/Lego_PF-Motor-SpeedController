@@ -28,3 +28,6 @@ The screw connector on the HW-70 Module is replaced by a header connector, after
 
 And mount it all in the enclosure  
 ![Image](https://github.com/user-attachments/assets/daf7bcd2-0a5a-4f4c-8ba2-4b5ef4e62d98)
+
+To make the stripes on the potmeter scale, fill the lines in with a black marker and wipe it clean with alcohol  
+![Image](https://github.com/user-attachments/assets/ec54525e-5fb4-407b-928f-b9bb997c7182)
