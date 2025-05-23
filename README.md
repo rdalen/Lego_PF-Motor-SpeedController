@@ -3,7 +3,7 @@
 I made my own versions of a speed controller for Lego PF motors after [this](https://www.toypro.com/nl/product/54279/power-controller-voor-lego-power-functions?gad_source=1&gad_campaignid=11441466193&gclid=CjwKCAjwravBBhBjEiwAIr30VCxSRBgGp-f_SLISsrgKkRwWOlxM40EZKS2sQz4RLvHa6dNschsDmRoCfCwQAvD_BwE) product.  
 ![Image](https://github.com/user-attachments/assets/9e3d2e8a-b6cb-4a86-9446-e1507b8d6cdc)
 
-This module contains a commercial HW-70 PWM Motor speed controller  
+This module contains a commercial HW-70 PWM Motor speed controller Module.  
 ![Image](https://github.com/user-attachments/assets/246a8842-75a4-48c1-bdcb-1572a66c688f)
 
 I bought a couple of these modules on AliExpress (approx. 1€25 each) and made this encloser for it in FreeCad
