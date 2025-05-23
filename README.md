@@ -9,7 +9,9 @@ This module contains a commercial HW-70 PWM Motor speed controller Module.
 I bought a couple of these modules on AliExpress (for approx. 1€25 each) and made an snapfit encloser for it in FreeCad
 ![Image](https://github.com/user-attachments/assets/31759234-456d-4af7-8029-7ed63e5ab469)
 
-On AliExpress you can also buy the PF connector and wire to make a DIY Lego PF connection cable
+On AliExpress you can also buy the PF connector and wire to make a DIY Lego PF connection cable.  
+When assembeling the PF cable, remove the C1 and C2 contacts from the Bottom part of the connector
+![Image](https://github.com/user-attachments/assets/0d40d8c7-a8f0-4172-9ac3-674145432b49)
 
 Because the output voltage cannot be reversed it is suitable e.g. as an LED dimmer  
 ![Image](https://github.com/user-attachments/assets/ed3f1727-a2c3-4208-9fcc-59caea6877c4)
@@ -19,5 +21,3 @@ Below is a modified design where the motor can be changed direction using a DPDT
 
 And I made this snapfit encloser for it  
 ![Image](https://github.com/user-attachments/assets/e7473693-421f-427c-b7ac-a56a24c6cb52)
-
-
