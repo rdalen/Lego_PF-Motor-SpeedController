@@ -10,7 +10,7 @@ I bought a couple of these modules on AliExpress (for approx. 1€25 each) and m
 ![Image](https://github.com/user-attachments/assets/31759234-456d-4af7-8029-7ed63e5ab469)
 
 On AliExpress you can also buy the PF connector and wire to make a DIY Lego PF connection cable.  
-When assembeling the PF cable, remove the C1 and C2 contacts from the Bottom part of the connector
+When assembling the PF cable, remove the C1 and C2 contacts from the Bottom part of the connector
 ![Image](https://github.com/user-attachments/assets/0d40d8c7-a8f0-4172-9ac3-674145432b49)
 
 Because the output voltage cannot be reversed it is suitable e.g. as an LED dimmer  
