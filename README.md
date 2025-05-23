@@ -30,5 +30,5 @@ First of al the screw connector on the HW-70 Module is replaced by a header conn
 and mounted into the enclosure  
 ![Image](https://github.com/user-attachments/assets/daf7bcd2-0a5a-4f4c-8ba2-4b5ef4e62d98)
 
-To make the stripes on the potmeter scale, fill the lines in with a black marker and wipe it clean with alcohol so that the stripes remain.  
+To make the stripes on the potentiometer scale, color in the lines with a black marker and wipe it clean with alcohol, leaving the stripes.  
 ![Image](https://github.com/user-attachments/assets/ec54525e-5fb4-407b-928f-b9bb997c7182)
