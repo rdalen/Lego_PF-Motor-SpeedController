@@ -23,5 +23,5 @@ Below is a modified design where the motor can be changed direction using a DPDT
 And I made this snapfit encloser for it  
 ![Image](https://github.com/user-attachments/assets/e7473693-421f-427c-b7ac-a56a24c6cb52)
 
-The screw connector HW-70 PWM Motor Module is replaced by a header connector, then solder and test all connections first  
+The screw connector HW-70 PWM Motor Module is replaced by a header connector, after that all connections are soldered and tested  
 ![Image](https://github.com/user-attachments/assets/82504dd4-9452-4436-aa28-c76d377cdb24)
