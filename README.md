@@ -9,7 +9,7 @@ This module contains a commercial HW-70 PWM Motor speed controller Module.
 I bought a couple of these modules on AliExpress (for approx. 1€25 each) and made an encloser for it in FreeCad
 ![Image](https://github.com/user-attachments/assets/31759234-456d-4af7-8029-7ed63e5ab469)
 
-On AliExpress you can also buy the PF connector and wire. 
+On AliExpress you can also buy the PF connector and wire to make a DIY PF connection cable
 
 Because the output voltage cannot be reversed it is suitable e.g. as an LED dimmer  
 ![Image](https://github.com/user-attachments/assets/ed3f1727-a2c3-4208-9fcc-59caea6877c4)
