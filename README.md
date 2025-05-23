@@ -6,7 +6,7 @@ I made my own versions of a speed controller for Lego PF motors after [this](htt
 This module contains a commercial HW-70 PWM Motor speed controller Module.  
 ![Image](https://github.com/user-attachments/assets/246a8842-75a4-48c1-bdcb-1572a66c688f)
 
-I bought a couple of these modules on AliExpress (for approx. 1€25 each) and made an encloser for it in FreeCad
+I bought a couple of these modules on AliExpress (for approx. 1€25 each) and made an snapfit encloser for it in FreeCad
 ![Image](https://github.com/user-attachments/assets/31759234-456d-4af7-8029-7ed63e5ab469)
 
 On AliExpress you can also buy the PF connector and wire to make a DIY Lego PF connection cable
@@ -16,3 +16,8 @@ Because the output voltage cannot be reversed it is suitable e.g. as an LED dimm
 
 Below is a modified design where the motor can be changed direction using a DPDT switch.  
 ![Image](https://github.com/user-attachments/assets/1e96dd7b-d2d6-4f70-9284-a41b421fc728)
+
+And I made this snapfit encloser for it  
+![Image](https://github.com/user-attachments/assets/e7473693-421f-427c-b7ac-a56a24c6cb52)
+
+
