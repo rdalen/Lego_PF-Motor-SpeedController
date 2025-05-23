@@ -21,7 +21,7 @@ ___
 Below is a modified design where the motor can be changed direction using a DPDT switch.  
 ![Image](https://github.com/user-attachments/assets/1e96dd7b-d2d6-4f70-9284-a41b421fc728)
 
-And I made this snapfit enclosure for it  
+I made this snapfit enclosure for it  
 ![Image](https://github.com/user-attachments/assets/e7473693-421f-427c-b7ac-a56a24c6cb52)
 
 First of al the screw connector on the HW-70 Module is replaced by a header connector, after that all connections are soldered and tested  
