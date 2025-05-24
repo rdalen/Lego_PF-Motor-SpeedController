@@ -4,6 +4,7 @@ I made my own versions of a speed controller for Lego PF motors after [this](htt
 ![Image](https://github.com/user-attachments/assets/9e3d2e8a-b6cb-4a86-9446-e1507b8d6cdc)
 
 This module contains a commercial HW-70 PWM Motor Speed Controller Module.  
+It contains a well known NE555 IC to make a PWM ouput signal.  
 ![Image](https://github.com/user-attachments/assets/246a8842-75a4-48c1-bdcb-1572a66c688f)
 
 I bought a couple of these modules on AliExpress (for approx. 1€25 each) and made a small snapfit enclosure for it in FreeCad 
