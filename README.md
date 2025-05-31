@@ -34,3 +34,6 @@ and mounted into the enclosure
 
 To make the stripes on the potentiometer scale, color in the lines with a black marker and wipe it clean with alcohol, leaving the stripes.  
 ![Image](https://github.com/user-attachments/assets/ec54525e-5fb4-407b-928f-b9bb997c7182)
+
+I also made a [version](https://github.com/rdalen/Lego_PF-Motor-SpeedController_Neopixel-version) based on an Arduino ProMini (or clone) and has a DRV8833 Motor driver module, a Rotary encoder and a 16 LED Neopixel Ring as forward/reverse speedindicator
+
