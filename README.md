@@ -16,7 +16,7 @@ When assembling the PF cable, remove the C1 and C2 contacts from the Bottom part
 so that only 1 connector is required to connect both the battery box and the motor
 ![Image](https://github.com/user-attachments/assets/0d40d8c7-a8f0-4172-9ac3-674145432b49)
 
-Because the output voltage cannot be reversed it is more suitable as a LED dimmer  
+Because the output voltage cannot be reversed it is more suitable as an LED dimmer  
 ![Image](https://github.com/user-attachments/assets/ed3f1727-a2c3-4208-9fcc-59caea6877c4)
 
 ___
